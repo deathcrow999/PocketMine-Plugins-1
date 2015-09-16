@@ -1,6 +1,6 @@
 <?php
 
-namespace slapper;
+namespace dorks;
 
 use pocketmine\Server;
 use pocketmine\utils\TextFormat;
